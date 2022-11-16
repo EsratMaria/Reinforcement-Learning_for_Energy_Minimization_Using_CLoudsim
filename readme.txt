@@ -5,8 +5,8 @@ Table of Contents
 2. Software requirements: Java version 1.6 or newer 
 3. Installation and running the CloudSim Toolkit
 4. Running the CloudSim examples
-5. Learning CloudSim
-6. Compiling CloudSim: using Ant
+5. Learning CloudSim  
+6. Compiling CloudSim: using Ant  
 
 
 
