@@ -6,7 +6,7 @@ Table of Contents
 3. Installation and running the CloudSim Toolkit
 4. Running the CloudSim examples
 5. Learning CloudSim
-6. Compiling CloudSim: using Ant 
+6. Compiling CloudSim: using Ant
 
 
 
